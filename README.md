@@ -1,2 +1,2 @@
-# Modelowanie-wykresow-w-jezyku-Python
+# Modelowanie wykresow w jezyku Python
 regresja liniowa + szereg czasowy

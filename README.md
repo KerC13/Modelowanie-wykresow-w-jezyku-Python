@@ -1,2 +1,2 @@
-# Modelowanie-wykres-w-w-j-zyku-Python
+# Modelowanie-wykresow-w-jezyku-Python
 regresja liniowa + szereg czasowy
